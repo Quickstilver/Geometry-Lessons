@@ -10,3 +10,4 @@ Open with MATHEMATICA:
 
 -Notebook on Slideshow(1).ns
 
+Copyright of Stefano Balla, Igor Iurevici, Dario Floris
